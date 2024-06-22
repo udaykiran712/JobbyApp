@@ -92,6 +92,12 @@ class Login extends Component {
     const {errorMsg, showErrorMsg} = this.state
     return (
       <div className="login-container">
+
+        <div className="sample-user-box">
+          <h4>SAMPLE USER CREDENTIALS</h4>
+          <p>USERNAME: rahul</p>
+          <p>PASSWORD: rahul@2021</p>
+        </div>
         <form className="login-form" onSubmit={this.onSubmitForm}>
           <img
             src="https://assets.ccbp.in/frontend/react-js/logo-img.png"

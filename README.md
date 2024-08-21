@@ -1,4 +1,4 @@
-App Live Link : udayJobbyApp.ccbp.tech
+App Live Link : https://udayJobbyApp.ccbp.tech
 
 - User credentials
 
